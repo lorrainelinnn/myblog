@@ -1,0 +1,9 @@
+---
+title: "A testing post"
+author: "Lorraine"
+date: "10 JUN 2026"
+categories: []
+format: html
+---
+
+This is a testing blog post to see if I actually link the pogramme to Github and creating a new blog post.
